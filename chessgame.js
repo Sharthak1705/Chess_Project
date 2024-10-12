@@ -109,11 +109,3 @@ const getPieceUnicode =(piece) =>{
     })
 renderBoard();
 
-
-
-
-
-// socket.emit("Hello Fakir")
-// socket.on("Hello Bhai",function(){
-//     console.log("Nhaiya message a gya ha");
-// })
