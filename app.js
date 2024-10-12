@@ -78,12 +78,3 @@ uniquesocket.on("move",(move)=>{
 
 
 
-
-
-   //    uniquesocket.on("disconnect",function(){
-        //     console.log("Disconnected");
-        //    })
-    //   uniquesocket.on("Hello Fakir",function(){
-    //     // console.log("Hello Sharthak");
-    //     io.emit("Hello Bhai");
-// })
